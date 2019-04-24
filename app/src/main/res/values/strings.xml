@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">practicaPropuesta</string>
+    <string name="spn_title">choose a language</string>
+
+    <string-array name="dlangs">
+
+        <item>Python</item>
+        <item>PHP</item>
+        <item>Ruby</item>
+        <item>C++</item>
+    </string-array>
+</resources>
