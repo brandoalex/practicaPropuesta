@@ -2,11 +2,9 @@
     <string name="app_name">practicaPropuesta</string>
     <string name="spn_title">choose a language</string>
 
-    <string-array name="dlangs">
+    <string-array name="tipo">
 
-        <item>Python</item>
-        <item>PHP</item>
-        <item>Ruby</item>
-        <item>C++</item>
+        <item>Cita/Reunión</item>
+        <item>Varios</item>
     </string-array>
 </resources>
